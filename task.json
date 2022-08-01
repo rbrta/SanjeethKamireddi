@@ -1,0 +1,14 @@
+[
+  {
+    "task": "E",
+    "value": "simple value"
+  },
+  {
+    "task": "S",
+    "value": "another value"
+  },
+  {
+    "task": "G",
+    "value": "complex value"
+  }
+]
